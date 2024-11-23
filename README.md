@@ -11,4 +11,5 @@ I am Toshiaki Hara.
 <img src="https://skillicons.dev/icons?i=jquery,laravel,wordpress" /> <br /><br />
 
 ## About me
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=toshitechservice) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=toshitechservice)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=toshitechservice&layout=compact)
