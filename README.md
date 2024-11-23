@@ -12,4 +12,4 @@ I am Toshiaki Hara.
 
 ## About me
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=toshitechservice&hide=hack&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=toshitechservice&hide=hack&langs_count=5&layout=compact)
