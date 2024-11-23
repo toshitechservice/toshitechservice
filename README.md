@@ -4,7 +4,7 @@ I am Toshiaki Hara.
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php," /> <br /><br />
 
 ## Frameworks and Library
 
