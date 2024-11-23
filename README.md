@@ -10,6 +10,6 @@ I am Toshiaki Hara.
 
 <img src="https://skillicons.dev/icons?i=laravel,wordpress" /> <br /><br />
 
-## DB and Dev Tools etc
+## About me
 
-<img src="https://skillicons.dev/icons?i=github,vscode" /> <br /><br />
+![](https://github-readme-stats.vercel.app/api/top-langs?username=toshitechservice)
