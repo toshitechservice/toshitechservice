@@ -8,7 +8,7 @@ I am Toshiaki Hara.
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=jquery,laravel,wordpress" /> <br /><br />
 
 ## About me
 
